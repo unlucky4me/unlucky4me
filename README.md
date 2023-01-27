@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unlucky4me
-- 👀 I’m interested in studying computer science, especially web development and design.
-- 🌱 I’m currently learning bare basics and math :D
-- 💞️ I’m looking to collaborate on anything really, once i've built up a foundation of knowledge.
+- 👀 I’m interested in studying software development, especially web development and design.
+- 🌱 I’m currently learning bare basics :D
+- 💞️ I’m looking to collaborate on anything really once i've built up a foundation of knowledge.
 - 📫 Reach me on my page.
 
 <!---
